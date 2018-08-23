@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Sam Boocker\n Economics and Mathematics\n");
+  printf("Amur al harthi\n Electrical Engineering\n");
 
   return 0;
 }
