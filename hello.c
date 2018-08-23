@@ -2,7 +2,7 @@
  * Author: Sam and Amur
  * Date: 2018/21/08
  *
- * A simple hello world program in C
+ * Name and Major
  *
  */
 #include<stdlib.h>
